@@ -1,0 +1,16 @@
+.box{
+    text-align: center;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 1px solid black;
+    height: 5vh;
+    width: 40vh;
+    background-color: grey;
+    display: flex;
+}
+.lado{
+    display: flex;
+    box-sizing: border-box;
+    height: 5vh;
+    width: 40vh;
+}
